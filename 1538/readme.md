@@ -26,6 +26,5 @@ strawberry
 
 样例输出：
 -----------
-horse
-strawberry
-
+46773
+7872923779

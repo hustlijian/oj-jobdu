@@ -8,6 +8,6 @@ int main(int argc, char* argv[])
     start = clock();
 
     end = clock();
-    printf("%.3lf MS\n", (end-start)/1000);
-	return 0;
+    printf("%.3lf MS\n", (end-start)/1000);	
+    return 0;
 }

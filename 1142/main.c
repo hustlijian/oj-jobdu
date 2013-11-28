@@ -11,9 +11,7 @@ int main(int argc, char* argv[])
     start = clock();
 
     while (~scanf("%d%d%d%d", &p,&e,&i,&d)) {
-        if (p==-1) {
-            break;
-        }
+        if(p==-1)break;
         n++;
         m = (R1*p+R2*e+R3*i-d)%R;
         m = (m+R-1)%R+1;

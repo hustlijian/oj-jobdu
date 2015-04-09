@@ -46,3 +46,4 @@ obj/
 
 #special files
 main
+*.dSYM
